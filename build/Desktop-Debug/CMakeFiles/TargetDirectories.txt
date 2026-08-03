@@ -1,7 +1,0 @@
-/home/entity/school projects/Assignment_4-C00532580/build/Desktop-Debug/CMakeFiles/Assignment_4-C00532580.dir
-/home/entity/school projects/Assignment_4-C00532580/build/Desktop-Debug/CMakeFiles/edit_cache.dir
-/home/entity/school projects/Assignment_4-C00532580/build/Desktop-Debug/CMakeFiles/rebuild_cache.dir
-/home/entity/school projects/Assignment_4-C00532580/build/Desktop-Debug/CMakeFiles/list_install_components.dir
-/home/entity/school projects/Assignment_4-C00532580/build/Desktop-Debug/CMakeFiles/install.dir
-/home/entity/school projects/Assignment_4-C00532580/build/Desktop-Debug/CMakeFiles/install/local.dir
-/home/entity/school projects/Assignment_4-C00532580/build/Desktop-Debug/CMakeFiles/install/strip.dir
